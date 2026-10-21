@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/laser-powder-bed-fusion-system-explainer/
 
+Repository: https://github.com/mizcausevic-dev/laser-powder-bed-fusion-system-explainer
+
 ## What this is
 
 An interactive anatomy plate for Laser Powder-Bed Fusion System. Play, scrub, or jump the five stages. The same frame always draws the same picture.
